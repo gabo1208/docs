@@ -9,7 +9,7 @@ This topic describes how to create a RabbitMQBroker.
 1. You have installed [RabbitMQ Messaging Topology Operator](https://github.com/rabbitmq/messaging-topology-operator) - our recommendation is [latest release](https://github.com/rabbitmq/messaging-topology-operator/releases/latest) with CertManager
 1. You have access to a working RabbitMQ instance. You can create a RabbitMQ instance by using the [RabbitMQ Cluster Kubernetes Operator](https://github.com/rabbitmq/cluster-operator). For more information see the [RabbitMQ website](https://www.rabbitmq.com/kubernetes/operator/using-operator.html).
 1. A working RabbitMQ Instance, we recommend to create one Using the [RabbitMQ Cluster Operator](https://github.com/rabbitmq/cluster-operator). 
-For more information about configuring the `RabbitmqCluster` CRD, see the[RabbitMQ website](https://www.rabbitmq.com/kubernetes/operator/using-operator.html)
+For more information about configuring the `RabbitmqCluster` CRD, see the [RabbitMQ website](https://www.rabbitmq.com/kubernetes/operator/using-operator.html)
 
 ## Install the RabbitMQ controller
 
